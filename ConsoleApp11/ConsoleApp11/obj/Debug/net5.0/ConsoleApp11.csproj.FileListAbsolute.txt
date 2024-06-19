@@ -1,0 +1,16 @@
+C:\Users\FP2402199\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\net5.0\ConsoleApp11.exe
+C:\Users\FP2402199\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\net5.0\ConsoleApp11.deps.json
+C:\Users\FP2402199\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\net5.0\ConsoleApp11.runtimeconfig.json
+C:\Users\FP2402199\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\net5.0\ConsoleApp11.runtimeconfig.dev.json
+C:\Users\FP2402199\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\net5.0\ConsoleApp11.dll
+C:\Users\FP2402199\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\net5.0\ConsoleApp11.pdb
+C:\Users\FP2402199\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\net5.0\ConsoleApp11.csproj.AssemblyReference.cache
+C:\Users\FP2402199\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\net5.0\ConsoleApp11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FP2402199\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\net5.0\ConsoleApp11.AssemblyInfoInputs.cache
+C:\Users\FP2402199\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\net5.0\ConsoleApp11.AssemblyInfo.cs
+C:\Users\FP2402199\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\net5.0\ConsoleApp11.csproj.CoreCompileInputs.cache
+C:\Users\FP2402199\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\net5.0\ConsoleApp11.dll
+C:\Users\FP2402199\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\net5.0\refint\ConsoleApp11.dll
+C:\Users\FP2402199\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\net5.0\ConsoleApp11.pdb
+C:\Users\FP2402199\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\net5.0\ConsoleApp11.genruntimeconfig.cache
+C:\Users\FP2402199\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\net5.0\ref\ConsoleApp11.dll
