@@ -1,0 +1,16 @@
+C:\Users\FP2402199\source\repos\eigenesproj\eigenesproj\bin\Debug\net5.0\eigenesproj.exe
+C:\Users\FP2402199\source\repos\eigenesproj\eigenesproj\bin\Debug\net5.0\eigenesproj.deps.json
+C:\Users\FP2402199\source\repos\eigenesproj\eigenesproj\bin\Debug\net5.0\eigenesproj.runtimeconfig.json
+C:\Users\FP2402199\source\repos\eigenesproj\eigenesproj\bin\Debug\net5.0\eigenesproj.runtimeconfig.dev.json
+C:\Users\FP2402199\source\repos\eigenesproj\eigenesproj\bin\Debug\net5.0\eigenesproj.dll
+C:\Users\FP2402199\source\repos\eigenesproj\eigenesproj\bin\Debug\net5.0\eigenesproj.pdb
+C:\Users\FP2402199\source\repos\eigenesproj\eigenesproj\obj\Debug\net5.0\eigenesproj.csproj.AssemblyReference.cache
+C:\Users\FP2402199\source\repos\eigenesproj\eigenesproj\obj\Debug\net5.0\eigenesproj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FP2402199\source\repos\eigenesproj\eigenesproj\obj\Debug\net5.0\eigenesproj.AssemblyInfoInputs.cache
+C:\Users\FP2402199\source\repos\eigenesproj\eigenesproj\obj\Debug\net5.0\eigenesproj.AssemblyInfo.cs
+C:\Users\FP2402199\source\repos\eigenesproj\eigenesproj\obj\Debug\net5.0\eigenesproj.csproj.CoreCompileInputs.cache
+C:\Users\FP2402199\source\repos\eigenesproj\eigenesproj\obj\Debug\net5.0\eigenesproj.dll
+C:\Users\FP2402199\source\repos\eigenesproj\eigenesproj\obj\Debug\net5.0\refint\eigenesproj.dll
+C:\Users\FP2402199\source\repos\eigenesproj\eigenesproj\obj\Debug\net5.0\eigenesproj.pdb
+C:\Users\FP2402199\source\repos\eigenesproj\eigenesproj\obj\Debug\net5.0\eigenesproj.genruntimeconfig.cache
+C:\Users\FP2402199\source\repos\eigenesproj\eigenesproj\obj\Debug\net5.0\ref\eigenesproj.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "virtuelle_funktionen02/1.0.0": {
+        "runtime": {
+          "virtuelle_funktionen02.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "virtuelle_funktionen02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
