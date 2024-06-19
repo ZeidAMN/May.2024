@@ -1,0 +1,16 @@
+C:\Users\FP2402199\source\repos\Bibliotheksverwaltungssystem\Bibliotheksverwaltungssystem\bin\Debug\net5.0\Bibliotheksverwaltungssystem.exe
+C:\Users\FP2402199\source\repos\Bibliotheksverwaltungssystem\Bibliotheksverwaltungssystem\bin\Debug\net5.0\Bibliotheksverwaltungssystem.deps.json
+C:\Users\FP2402199\source\repos\Bibliotheksverwaltungssystem\Bibliotheksverwaltungssystem\bin\Debug\net5.0\Bibliotheksverwaltungssystem.runtimeconfig.json
+C:\Users\FP2402199\source\repos\Bibliotheksverwaltungssystem\Bibliotheksverwaltungssystem\bin\Debug\net5.0\Bibliotheksverwaltungssystem.runtimeconfig.dev.json
+C:\Users\FP2402199\source\repos\Bibliotheksverwaltungssystem\Bibliotheksverwaltungssystem\bin\Debug\net5.0\Bibliotheksverwaltungssystem.dll
+C:\Users\FP2402199\source\repos\Bibliotheksverwaltungssystem\Bibliotheksverwaltungssystem\bin\Debug\net5.0\Bibliotheksverwaltungssystem.pdb
+C:\Users\FP2402199\source\repos\Bibliotheksverwaltungssystem\Bibliotheksverwaltungssystem\obj\Debug\net5.0\Bibliotheksverwaltungssystem.csproj.AssemblyReference.cache
+C:\Users\FP2402199\source\repos\Bibliotheksverwaltungssystem\Bibliotheksverwaltungssystem\obj\Debug\net5.0\Bibliotheksverwaltungssystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FP2402199\source\repos\Bibliotheksverwaltungssystem\Bibliotheksverwaltungssystem\obj\Debug\net5.0\Bibliotheksverwaltungssystem.AssemblyInfoInputs.cache
+C:\Users\FP2402199\source\repos\Bibliotheksverwaltungssystem\Bibliotheksverwaltungssystem\obj\Debug\net5.0\Bibliotheksverwaltungssystem.AssemblyInfo.cs
+C:\Users\FP2402199\source\repos\Bibliotheksverwaltungssystem\Bibliotheksverwaltungssystem\obj\Debug\net5.0\Bibliotheksverwaltungssystem.csproj.CoreCompileInputs.cache
+C:\Users\FP2402199\source\repos\Bibliotheksverwaltungssystem\Bibliotheksverwaltungssystem\obj\Debug\net5.0\Bibliotheksverwaltungssystem.dll
+C:\Users\FP2402199\source\repos\Bibliotheksverwaltungssystem\Bibliotheksverwaltungssystem\obj\Debug\net5.0\refint\Bibliotheksverwaltungssystem.dll
+C:\Users\FP2402199\source\repos\Bibliotheksverwaltungssystem\Bibliotheksverwaltungssystem\obj\Debug\net5.0\Bibliotheksverwaltungssystem.pdb
+C:\Users\FP2402199\source\repos\Bibliotheksverwaltungssystem\Bibliotheksverwaltungssystem\obj\Debug\net5.0\Bibliotheksverwaltungssystem.genruntimeconfig.cache
+C:\Users\FP2402199\source\repos\Bibliotheksverwaltungssystem\Bibliotheksverwaltungssystem\obj\Debug\net5.0\ref\Bibliotheksverwaltungssystem.dll
